@@ -1,7 +1,9 @@
 # Clean React Template [CRT]
 
+<div align="left">
 <img src="https://img.shields.io/badge/version-1.0.0-blue">
 <img src="https://badgen.net/github/stars/guerin-jerome/clean-react-template">
+</div>
 
 ## Introduction
 
